@@ -7,7 +7,12 @@ I'm a Informatics Engineering student who is passionate about writing code, solv
 
 - 🔭 I’m currently a IE student at Granada Unversity.
 - 👯 I’m looking for a software development internship. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/antonio-marfil-s%C3%A1nchez-a625601b9/) [Gmail](mailto:antonio10marsan@gmail.com)
+
+## Reach me 
+[![Github](https://img.shields.io/github/followers/Sopadefideos?label=Follow&style=social)](https://github.com/Sopadefideos)
+[![Instagram](https://img.shields.io/badge/-@sarthak_bharadwaj-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sarthak_bharadwaj_/)](https://www.instagram.com/sarthak_bharadwaj_/)
+[![Linkedin](https://img.shields.io/badge/-Sarthak%20Bharadwaj-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)](https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)
+[![Mail](https://img.shields.io/badge/-sarthakbh321@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)](mailto:sarthakbh321@gmail.com)
 
 <br/>
 
