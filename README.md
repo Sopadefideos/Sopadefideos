@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-<iframe src="https://giphy.com/embed/YQitE4YNQNahy" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/YQitE4YNQNahy">via GIPHY</a></p>
+<p align="center"><img src="http://gph.is/297cNL0"/></p>
 
 I'm a Informatics Engineering student who is passionate about writing code, solving problems, automating stuff, and building software.
 
