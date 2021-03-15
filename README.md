@@ -8,4 +8,13 @@ I'm a Informatics Engineering student who is passionate about writing code, solv
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/antonio-marfil-s%C3%A1nchez-a625601b9/) [Gmail](mailto:antonio10marsan@gmail.com)
 
+<br/>
+
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+
 ⭐️ From [Sopadefideos](https://github.com/Sopadefideos)
