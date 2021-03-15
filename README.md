@@ -5,7 +5,6 @@
 I'm a Informatics Engineering student who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m currently a IE student at Granada Unversity.
-- 📚 I’m currently learning backend web development using NodeJS, ExpressJS and MongoDB.
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/antonio-marfil-s%C3%A1nchez-a625601b9/) [Gmail](mailto:antonio10marsan@gmail.com)
 
