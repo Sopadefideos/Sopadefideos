@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-<img width="35%" align="right" alt="Github" src="https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp" />
+<img width="45%" align="right" alt="Github" src="https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp" />
 
 ### Hi there 👋
 
