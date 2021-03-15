@@ -11,8 +11,8 @@ I'm a Informatics Engineering student who is passionate about writing code, solv
 <br/>
 
 <a href="https://github.com/Sopadefideos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sopadefideos&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sopadefideos&theme=buefy&layout=compact" />
 </a>
 
 <br/>
