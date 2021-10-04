@@ -5,9 +5,6 @@
 
 I'm a Informatics Engineering student who is passionate about writing code, solving problems, automating stuff, and building software.
 
-- 🔭 I’m currently a IE student at Granada Unversity.
-- 👯 I’m looking for a software development internship. 
-
 ## Reach me 
 [![Github](https://img.shields.io/github/followers/Sopadefideos?label=Follow&style=social)](https://github.com/Sopadefideos)
 [![Instagram](https://img.shields.io/badge/-@antonio10ms-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/antonio10ms/)](https://www.instagram.com/antonio10ms/)
