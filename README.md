@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-I'm a Informatics Engineering student who is passionate about writing code, solving problems, automating stuff, and building software.
+I'm a Informatics Engineering who is passionate about writing code, solving problems, automating stuff, and building software.
 
 ## Reach me 
 [![Github](https://img.shields.io/github/followers/Sopadefideos?label=Follow&style=social)](https://github.com/Sopadefideos)
