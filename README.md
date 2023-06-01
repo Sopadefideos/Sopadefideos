@@ -7,7 +7,6 @@ I'm a Informatics Engineering who is passionate about writing code, solving prob
 
 ## Reach me 
 [![Github](https://img.shields.io/github/followers/Sopadefideos?label=Follow&style=social)](https://github.com/Sopadefideos)
-[![Instagram](https://img.shields.io/badge/-@antonio10ms-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/antonio10ms/)](https://www.instagram.com/antonio10ms/)
 [![Linkedin](https://img.shields.io/badge/-Antonio%20Marfil-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-marfil-s%C3%A1nchez-a625601b9/)](https://www.linkedin.com/in/antonio-marfil-s%C3%A1nchez-a625601b9/)
 [![Mail](https://img.shields.io/badge/-antonio_dev@sopadefideos.es-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/antonio-marfil-s%C3%A1nchez-a625601b9/)](mailto:antonio_dev@sopadefideos.es)
 
